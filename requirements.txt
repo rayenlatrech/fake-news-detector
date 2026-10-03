@@ -1,0 +1,12 @@
+torch
+transformers
+pandas
+pyarrow
+numpy
+pillow
+scikit-learn
+tqdm
+matplotlib
+seaborn
+gradio
+jupyter
